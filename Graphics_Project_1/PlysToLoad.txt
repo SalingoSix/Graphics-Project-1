@@ -1,0 +1,7 @@
+6
+MaleLow.ply Man
+bun_zipper_res2_xyz_n.ply Bunny
+Bowl.ply Bowl
+Radio.ply Radio
+Table.ply Table
+Flat_XZ_Plane.ply Floor

@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Graphics_Project_1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  SceneHandler.cpp
+SceneHandler.cpp(5): fatal error C1083: Cannot open include file: 'glm/gtc/matrix_transform.hpp': No such file or directory
+  main.cpp
+main.cpp(1): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  glm.cpp
+include\glm\detail\glm.cpp(5): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  dummy.cpp
+  cVAOMeshManager.cpp
+cVAOMeshManager.cpp(1): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  cShaderManager.cpp
+cShaderManager.cpp(3): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  cShader.cpp
+  cMesh.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\graphics i\project_1\graphics_project_1\graphics_project_1\cMesh.h(8): fatal error C1083: Cannot open include file: 'glm/vec3.hpp': No such file or directory
+  cLightManager.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\graphics i\project_1\graphics_project_1\graphics_project_1\cLightManager.h(4): fatal error C1083: Cannot open include file: 'glm/vec3.hpp': No such file or directory
+  cGameObject.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\graphics i\project_1\graphics_project_1\graphics_project_1\cGameObject.h(4): fatal error C1083: Cannot open include file: 'glm/vec3.hpp': No such file or directory
+  Generating Code...
